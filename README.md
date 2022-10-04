@@ -1,8 +1,4 @@
-### Hi there 👋
-
 <!--
-**su-pe4ch/su-pe4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Pe4ch's github stats](https://github-readme-stats.vercel.app/api?username=su-pe4ch&show_icons=true&theme=default)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z&theme=default)
+-->
+
