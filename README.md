@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 ![Pe4ch's github stats](https://github-readme-stats.vercel.app/api?username=su-pe4ch&show_icons=true&theme=default)
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-pe4ch&theme=default)
 -->
 
